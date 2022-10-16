@@ -46,6 +46,9 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - :page_facing_up: Resume: <a href="https://drive.google.com/file/d/1P2AkNGwYJHiB4ghDeRYSzqW55wMEFAKK/view?usp=sharing" target="_blank">Click.</a>
 
 
+[![@beeridev's Holopin board](https://holopin.me/beeridev)](https://holopin.io/@beeridev)
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
