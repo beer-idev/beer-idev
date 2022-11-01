@@ -81,7 +81,10 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=beer-idev&theme=tokyonight&row=1&column=7&margin-w=15)](https://github.com/beer-idev/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beer-idev&layout=compact&theme=tokyonight)](https://github.com/beer-idev/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beer-idev&layout=compact&theme=tokyonight)](https://github.com/beer-idev/github-readme-stats) -->
+  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beer-idev&theme=tokyonight)](https://github.com/beer-idev/github-readme-stats)
 <!--
 **beer-idev/beer-idev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://media.giphy.com/media/12E6e2Eh0Fq87K/giphy.gif
