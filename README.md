@@ -14,7 +14,6 @@ Hello everyone. My name is Warawut Thasungnoen, I used to be a web developer wit
 *   ⚡  I like to game
 
 
-<a href="https://www.github.com/beer-idev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/beer-idev?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
                   
 
 ### Skills 
