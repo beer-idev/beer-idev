@@ -1,101 +1,53 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZCxnmvwk9jpD0THRBb/giphy.gif" width="200"/>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Warawut Thasungnoen
+===========================================================================================================================================
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=My+name+is+Beer" alt="Typing SVG" /></a>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/beerdev">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 5px !important;"/>
-  </a>
-   <a href="https://discordapp.com/users/833397997530251277">
-    <img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 5px  !important;"/>
-  </a>
-  <a href="https://web.facebook.com/beer.tk26243">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="border-radius: 5px  !important;"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=beer-idev&style=flat-square&color=blueviolet" alt="" style="border-radius: 5px;"/>
-</div>
+Junior Frontend Developer | Web Developer
+-----------------------------------------
 
-<div align="center">
+Hello everyone. My name is Warawut Thasungnoen, I used to be a web developer with 1+ years of experience designing and developing user interfaces, testing, debugging, and training staff on web applications.
 
-<h1>
-  Hello everyone. 
- 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" style="width: auto; height: 100%;"/>
-</div>
-
----
-
-### :woman_technologist: About Me :
-<div>
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.
-
-- :telescope: I work as a web developer in designing and developing user interfaces, testing, debugging, and training employees on web applications.
-
-- :zap: In my free time, I always like to learn something new.
-
-- :mailbox:How to reach me: [![Line Badge](https://img.shields.io/badge/Line-brightgreen?style=flat&logo=Line&logoColor=white)](https://line.me/ti/p/~0809022605)
- 
-- :page_facing_up: Resume: <a href="https://drive.google.com/file/d/1P2AkNGwYJHiB4ghDeRYSzqW55wMEFAKK/view?usp=sharing" target="_blank">Click.</a>
+*   🌍  I'm based in Bangkok, Thailand
+*   🖥️  See my portfolio at [Web Portfolio](http://beer-idev-port.vercel.app/)
+*   ✉️  You can contact me at [ber26243@gmail.com](mailto:ber26243@gmail.com)
+*   🧠  I'm learning Full Stack Web Development
+*   🤝  I'm open to collaborating on ERP, POS
+*   ⚡  I like to game
 
 
-[![@beeridev's Holopin board](https://holopin.me/beeridev)](https://holopin.io/@beeridev)
+<a href="https://www.github.com/beer-idev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/beer-idev?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
+                  
 
+### Skills 
+<p align="left">
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+                    
 
----
+### Socials
+                  
+<p align="left"> <a href="https://www.dev.to/beeridev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/833397997530251277" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/beer.tk26243" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/beer-idev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/beer_idev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/beer-idev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS"  alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" **alt="VS Code" width="40" height="40"/>
-</div>
+### Badges
 
----
+<b>My GitHub Stats</b>
 
-### :fire: My Stats :
-  
-![](https://github-readme-stats.vercel.app/api?username=beer-idev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) 
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=beer-idev&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+<a href="http://www.github.com/beer-idev"><img src="https://github-readme-stats.vercel.app/api?username=beer-idev&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=6366f1&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="beer-idev's GitHub stats" /></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=beer-idev&theme=tokyonight&row=1&column=7&margin-w=15)](https://github.com/beer-idev/github-profile-trophy)
+<a href="http://www.github.com/beer-idev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=beer-idev&stroke=6366f1&background=000000&ring=a855f7&fire=a855f7&currStreakNum=6366f1&currStreakLabel=a855f7&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beer-idev&layout=compact&theme=tokyonight)](https://github.com/beer-idev/github-readme-stats) -->
-  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beer-idev&theme=tokyonight)](https://github.com/beer-idev/github-readme-stats)
-<!--
-**beer-idev/beer-idev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://media.giphy.com/media/12E6e2Eh0Fq87K/giphy.gif
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/beer-idev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beer-idev&langs_count=10&title_color=a855f7&text_color=6366f1&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
