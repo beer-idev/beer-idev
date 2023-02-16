@@ -9,8 +9,7 @@ Hello everyone. My name is Warawut Thasungnoen, I used to be a web developer wit
 *   🌍  I'm based in Bangkok, Thailand
 *   🖥️  See my portfolio at [Web Portfolio](http://beer-idev-port.vercel.app/)
 *   ✉️  You can contact me at [ber26243@gmail.com](mailto:ber26243@gmail.com)
-*   🧠  I'm learning Full Stack Web Development
-*   🤝  I'm open to collaborating on ERP, POS
+*   🧠  I'm learning Full Stack Development
 *   ⚡  I like to game
 
 
