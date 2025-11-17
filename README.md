@@ -7,8 +7,8 @@ Junior Frontend Developer | Web Developer
 Hello everyone. My name is Warawut Thasungnoen, I used to be a web developer with 1+ years of experience designing and developing user interfaces, testing, debugging, and training staff on web applications.
 
 *   🌍  I'm based in Bangkok, Thailand
-*   🖥️  See my portfolio at [Web Portfolio](http://beer-idev-port.vercel.app/)
-*   ✉️  You can contact me at [ber26243@gmail.com](mailto:ber26243@gmail.com)
+*   🖥️  See my portfolio at [Web Portfolio]([http://beer-idev-port.vercel.app/](https://www.beercoder.tech/))
+*   ✉️  You can contact me at [ber26243@gmail.com](mailto:beerdev.work@gmail.com)
 *   🧠  I'm learning Full Stack Development
 *   ⚡  I like to game
 
